@@ -1,0 +1,12 @@
+kullanici adi Kardelen AKDAÐ
+kullanicinin yas, kilo, boy bilgisi 23, 56.0, 16.0
+kullanicinin vucut kitle Kardelen AKDAÐ
+kullanici adi Kardelen AKDAÐ
+kullanici adi Kardelen AKDAÐ
+********************
+kullanici adi kARDELEN
+kullanicinin yas, kilo, boy bilgisi 24, 56.0, 160.0
+kullanicinin vucut kitle kARDELEN
+kullanici adi kARDELEN
+kullanici adi kARDELEN
+********************
